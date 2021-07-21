@@ -1,0 +1,6 @@
+Exercice à faire sur le serveur 1 en local
+Initier un repository Git « Services » en local sur votre VM
+Ajouter un premier fichier puis faire un premier commit.
+Ajouter un deuxième fichier puis faire un deuxième commit.
+Pousser le repository « Services » sur GitHub
+
