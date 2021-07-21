@@ -1,0 +1,7 @@
+Exercice à faire sur le serveur 2 en local
+Faire un clone de repository Git « Services » sur le serveur 2 en local
+Ajouter un troisième fichier puis faire un premier commit.
+Ajouter un quatrième fichier puis faire un deuxième commit.
+Repousser à nouveau les modifications sur GitHub
+NB : Serveur 1 et serveur 2 correspondent aux deux machines CentOS qu’un avait utiliser dans le cours Linux afin de manipuler le protocole de communications SFTP  
+
